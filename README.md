@@ -59,7 +59,6 @@ will challenge me to make development and learning new technologies continuous.
 ---
 
 </br>
-</br>
 ### 👨‍💻 Programming Languages
 
 <p>
