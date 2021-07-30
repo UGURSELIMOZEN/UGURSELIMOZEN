@@ -1,4 +1,17 @@
-## Hi there, I'm Uğur Selim 👋
+<div align="center">
+<img width="100%" height="250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnjbmagazine.com%2Fmonthly-articles%2Fgrowth-through-data-analytics%2F&psig=AOvVaw0a0cdinsc_b8qsYSxqPSDV&ust=1627735204044000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiN1qXoivICFQAAAAAdAAAAABAf" />
+</div>
+<br>
+
+<h1>
+<p align="center">Hi there, I'm Uğur Selim 
+<a href="https://rahulmahesh.me/">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
+</a>
+</p>
+
+
 
 
 ### About me
