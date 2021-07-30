@@ -80,6 +80,9 @@ will challenge me to make development and learning new technologies continuous.
     <a>
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
     </a>
+    <a>
+    <img alt="Lisp" src="https://img.shields.io/badge/Lisp%20-%23E34F26.svg?logo=lisp&logoColor=white">
+    </a>
     
     
     
