@@ -63,13 +63,13 @@ will challenge me to make development and learning new technologies continuous.
 <img alt="GitHub Metrics" src="https://metrics.lecoq.io/UGURSELIMOZEN" width="660px"/>
 </a>
 </br>
-
+</br>
 <p align="center">
 <a>
 <img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="660px"/>
 </a>
 </br>
-
+</br>
 <p align="center">
 <a>
 <img 
@@ -78,7 +78,7 @@ will challenge me to make development and learning new technologies continuous.
   width="660px" />
 </a>
 </br>
-
+</br>
 <p align="center">
 <a>
 <img 
@@ -87,7 +87,7 @@ will challenge me to make development and learning new technologies continuous.
   width="660px" />
 </a>
 </br>
-
+</br>
 <p align="center">
 <a>
 <img 
