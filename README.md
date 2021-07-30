@@ -95,7 +95,6 @@ will challenge me to make development and learning new technologies continuous.
     <a>
     <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-00979D?logo=NumPy&logoColor=white">
     </a>
-    
     <a>
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white">
     </a>
