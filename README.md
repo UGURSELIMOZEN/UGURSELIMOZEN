@@ -75,6 +75,9 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     </a>
     <a>
+    <img alt="XML" src="https://img.shields.io/badge/XML%20-%23E34F26.svg?logo=xml5&logoColor=white">
+    </a>
+    <a>
     <img alt="Json" src="https://img.shields.io/badge/JSON%20-%23E34F26.svg?logo=json&logoColor=FFA518">
     </a>
     <a>
@@ -94,6 +97,27 @@ will challenge me to make development and learning new technologies continuous.
 <p>
     <a>
     <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-00979D?logo=NumPy&logoColor=white">
+    </a>
+    <a>
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-00979D?logo=Pandas&logoColor=white">
+    </a>
+    <a>
+    <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-00979D?logo=Matplotlib&logoColor=white">
+    </a>
+    <a>
+    <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-00979D?logo=Seaborn&logoColor=white">
+    </a>
+    <a>
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit-learn-00979D?logo=Scikit-learn&logoColor=white">
+    </a>
+    <a>
+    <img alt="BeautifulSoup" src="https://img.shields.io/badge/-BeautifulSoup-00979D?logo=BeautifulSoup&logoColor=white">
+    </a>
+    <a>
+    <img alt="DplyR" src="https://img.shields.io/badge/-DplyR-00979D?logo=DplyR&logoColor=white">
+    </a>
+    <a>
+    <img alt="Ggplot2" src="https://img.shields.io/badge/-Ggplot2-00979D?logo=Ggplot2&logoColor=white">
     </a>
     <a>
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white">
