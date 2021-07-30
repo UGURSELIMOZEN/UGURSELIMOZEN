@@ -108,7 +108,7 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-00979D?logo=Seaborn&logoColor=white">
     </a>
     <a>
-    <img alt="Scikitlearn" src="https://img.shields.io/badge/-Scikit-learn-00979D?logo=Scikit-learn&logoColor=white">
+    <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-00979D?logo=SciPy&logoColor=white">
     </a>
     <a>
     <img alt="BeautifulSoup" src="https://img.shields.io/badge/-BeautifulSoup-00979D?logo=BeautifulSoup&logoColor=white">
