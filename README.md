@@ -69,6 +69,9 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
     </a>
     <a>
+    <img alt="R" src="https://img.shields.io/badge/R%20-%23025E8C.svg?logo=r&logoColor=white">
+    </a>
+    <a>
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     </a>
     <a>
