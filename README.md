@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnjbmagazine.com%2Fmonthly-articles%2Fgrowth-through-data-analytics%2F&psig=AOvVaw0a0cdinsc_b8qsYSxqPSDV&ust=1627735204044000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiN1qXoivICFQAAAAAdAAAAABAf" />
+<img width="100%" height="250px" src="https://njbmagazine.com/wp-content/uploads/2021/06/Data_301985997-775x500.gif" />
 </div>
 <br>
 
