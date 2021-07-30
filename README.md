@@ -147,6 +147,9 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
     </a>
     <a>
+    <img alt="SQLAlchemy" src ="https://img.shields.io/badge/-SQLAlchemy-0089D6?&logo=sqlalchemy&logoColor=ffffff">
+    </a>
+    <a>
     <img alt="DB2" src ="https://img.shields.io/badge/DB2-%23316192.svg?logo=db2&logoColor=white">
     </a>
     <a>
