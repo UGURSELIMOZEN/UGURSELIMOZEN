@@ -61,7 +61,8 @@ will challenge me to make development and learning new technologies continuous.
 </br>
 ### 👨‍💻 Programming Languages
 
-<p>
+<p> 
+    <a>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
     </a>
     <a>
@@ -90,7 +91,7 @@ will challenge me to make development and learning new technologies continuous.
     </a>
 
 </br>
-</br>
+
 
 ### 🧰 Frameworks & Libraries
 
