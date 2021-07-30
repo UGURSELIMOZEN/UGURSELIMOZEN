@@ -1,6 +1,8 @@
 ## Hi there, I'm Uğur Selim 👋
 
+
 ### About me
+
 
 • In my life journey, the concept of learning has evolved into self-learning which should be continuous
 duty.Through my studies and projects , I am self-motivated and result-oriented team player who believes
@@ -22,6 +24,7 @@ me to make development and learning new technologies continuous.
 
 
 ### To summarize briefly myself ;
+
 
 - 🔭 I’m currently working on Data Analytics , Machine Learning domains
 - 🌱 I’m currently learning BigQuery , Python Streamlit , Tableau , Statisitical Analysis and Cloud Technologies.
