@@ -59,7 +59,7 @@ will challenge me to make development and learning new technologies continuous.
 ---
 
 </br>
-
+</br>
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -90,6 +90,7 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Lisp" src="https://img.shields.io/badge/Lisp%20-%23E34F26.svg?logo=Lisp&logoColor=white">
     </a>
 
+</br>
 </br>
 
 ### 🧰 Frameworks & Libraries
@@ -127,9 +128,33 @@ will challenge me to make development and learning new technologies continuous.
     </a>
     
 </p>
-    
-    
+
+</br>
+
+### 🗄️ Databases & Cloud Technologies
+
+<p>
+    <a>
+    <img alt="MsSQL" src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white">
+    <a>
+    <a>
+    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">
+    </a>
+    <a>
+    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+    </a>
+    <img alt="Microsoft Azure" src ="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&logo=microsoft-azure&logoColor=ffffff">
+    </a>
+    <a>
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
+    </a>
+        
 </p>
+
+</br>
+
+    
+
 
 </br>
 
