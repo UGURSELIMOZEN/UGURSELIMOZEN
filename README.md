@@ -73,6 +73,12 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="R" src="https://img.shields.io/badge/R%20-%23025E8C.svg?logo=r&logoColor=white">
     </a>
     <a>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">
+    </a>
+    <a>
+    <img alt="Lisp" src="https://img.shields.io/badge/Lisp%20-%23E34F26.svg?logo=Lisp&logoColor=white">
+    </a>
+    <a>
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     </a>
     <a>
@@ -82,14 +88,9 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Json" src="https://img.shields.io/badge/JSON%20-%23E34F26.svg?logo=json&logoColor=FFA518">
     </a>
     <a>
-    <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">
-    </a>
-    <a>
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
     </a>
-    <a>
-    <img alt="Lisp" src="https://img.shields.io/badge/Lisp%20-%23E34F26.svg?logo=Lisp&logoColor=white">
-    </a>
+    
 </p>
     
 </br>
