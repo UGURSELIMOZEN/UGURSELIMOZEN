@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="250px" src="https://njbmagazine.com/wp-content/uploads/2021/06/Data_301985997-775x500.gif" />
+<img width="300%" height="250px" src="https://njbmagazine.com/wp-content/uploads/2021/06/Data_301985997-775x500.gif" />
 </div>
 <br>
 
