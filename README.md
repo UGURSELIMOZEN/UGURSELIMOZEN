@@ -102,10 +102,10 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-%23150458.svg?logo=Pandas&logoColor=white">
     </a>
     <a>
-    <img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-00979D?logo=matplotlib&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-%23025E8C.svg?logo=matplotlib&logoColor=white">
     </a>
     <a>
-    <img alt="Seaborn" src="https://img.shields.io/badge/-seaborn-00979D?logo=seaborn&logoColor=white">
+    <img alt="Seaborn" src="https://img.shields.io/badge/-seaborn-%23E34F26.svg?logo=seaborn&logoColor=white">
     </a>
     <a>
     <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-%230C55A5.svg?logo=SciPy&logoColor=white">
