@@ -112,6 +112,9 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Seaborn" src="https://img.shields.io/badge/-seaborn-%23e0982c.svg?logo=seaborn&logoColor=white">
     </a>
     <a>
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white">
+    </a>
+    <a>
     <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-%230C55A5.svg?logo=SciPy&logoColor=white">
     </a>
     <a>
