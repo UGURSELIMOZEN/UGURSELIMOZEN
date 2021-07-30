@@ -35,8 +35,7 @@ interactive web apps.
 • I am currently looking  for a new job opportunities about data analytics domain an ambitious company which 
 will challenge me to make development and learning new technologies continuous. 
 
-
-
+</br>
 
 ### To summarize briefly myself ;
 
