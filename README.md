@@ -19,8 +19,8 @@ SQLAlchemy, IBM DB2 and etc.)
 • Improving currently myself with BigQuery, Python Streamlit, Tableau and Cloud Technologies to develop
 interactive web apps.
 
-• I am currently looking a job opportunities about data analytics domain an ambitious company which will challenge
-me to make development and learning new technologies continuous. 
+• I am currently looking  for a new job opportunities about data analytics domain an ambitious company which 
+will challenge me to make development and learning new technologies continuous. 
 
 
 ### To summarize briefly myself ;
