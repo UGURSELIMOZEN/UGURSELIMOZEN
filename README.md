@@ -121,6 +121,9 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
     </a>
     <a>
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white">
+    </a>
+    <a>
     <img alt="BeautifulSoup" src="https://img.shields.io/badge/-BeautifulSoup-%23025E8C.svg?logo=BeautifulSoup&logoColor=white">
     </a>
     <a>
