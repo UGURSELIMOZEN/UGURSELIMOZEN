@@ -46,3 +46,30 @@ will challenge me to make development and learning new technologies continuous.
 - 😄 Pronouns: Data Analyst
 - ⚡ Fun fact: Swimming , Reading , Football and NBA
 
+
+<p align="center">
+<h2> My Github Stats    
+<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' />
+</h2>
+
+<p align="center">
+<a>
+<img alt="GitHub Metrics" src="https://metrics.lecoq.io/UGURSELIMOZEN" width="660px"/>
+</a>
+</br>
+
+<p align="center">
+<a>
+<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="660px"/>
+</a>
+</br>
+
+<p align="center">
+<a>
+<img 
+  alt="GitHub Metrics" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true" 
+  width="660px" />
+</a>
+</br>
+
