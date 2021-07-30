@@ -169,6 +169,12 @@ will challenge me to make development and learning new technologies continuous.
 
 <p>
     <a>
+    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=github">
+    </a>
+    <a>
+    <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=github">
+    </a>
+    <a>
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
     </a>
     <a>
@@ -182,21 +188,12 @@ will challenge me to make development and learning new technologies continuous.
     </a>
     <a>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    </a>
-    <a>
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white">
     </a>    
     <a>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white">
     </a>
     <a>
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black">
-    </a>
-    <a>
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white">
-    </a>
-    <a>
-    <img alt="NotePad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2B%2B&logoColor=black">
     </a>
     <a>
     <img alt="PowerShell" src="http://img.shields.io/badge/-Powershell-5391FE?&logo=powershell&logoColor=ffffff">
