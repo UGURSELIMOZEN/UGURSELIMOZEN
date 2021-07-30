@@ -117,7 +117,7 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="BeautifulSoup" src="https://img.shields.io/badge/-BeautifulSoup-00979D?logo=BeautifulSoup&logoColor=white">
     </a>
     <a>
-    <img alt="DplyR" src="https://img.shields.io/badge/-DplyR-00979D?logo=DplyR&logoColor=white">
+    <img alt="DplyR" src="https://img.shields.io/badge/DplyR-00979D?logo=DplyR&logoColor=white">
     </a>
     <a>
     <img alt="Ggplot2" src="https://img.shields.io/badge/-Ggplot2-00979D?logo=Ggplot2&logoColor=white">
