@@ -147,6 +147,9 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
     </a>
     <a>
+    <img alt="IBM DB2" src ="https://img.shields.io/badge/IBM DB2-%23316192.svg?logo=ibm db2&logoColor=white">
+    </a>
+    <a>
     <img alt="IBM Cloud" src ="https://img.shields.io/badge/Ibm%20Cloud-CC2927?&logo=ibm%20cloud&logoColor=white">
     <a>
     <img alt="Microsoft Azure" src ="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&logo=microsoft-azure&logoColor=ffffff">
