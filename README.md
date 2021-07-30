@@ -51,7 +51,43 @@ will challenge me to make development and learning new technologies continuous.
 </br>
 </br>
 </br>
+<h2>🛠️ SKILLS &  MY FAVORITE TOOLS
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+</br>
+</h2>
 
+---
+
+</br>
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    </a>
+    <a>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+    </a>
+    <a>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+    </a>
+    <a>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">
+    </a>
+    <a>
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
+    </a>
+    
+    
+    
+</p>
+
+</br>
+
+
+</br>
+</br>
+</br>
 
 <p align="center">
 <h2> My Github Stats    
