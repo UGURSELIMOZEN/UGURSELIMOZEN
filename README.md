@@ -96,10 +96,10 @@ will challenge me to make development and learning new technologies continuous.
 
 <p>
     <a>
-    <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-00979D?logo=NumPy&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-%23013243.svg?logo=NumPy&logoColor=white">
     </a>
     <a>
-    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-00979D?logo=Pandas&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-%23150458.svg?logo=Pandas&logoColor=white">
     </a>
     <a>
     <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-00979D?logo=matplotlib&logoColor=white">
@@ -108,7 +108,7 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-00979D?logo=seaborn&logoColor=white">
     </a>
     <a>
-    <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-00979D?logo=SciPy&logoColor=white">
+    <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-%230C55A5.svg?logo=SciPy&logoColor=white">
     </a>
     <a>
     <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
