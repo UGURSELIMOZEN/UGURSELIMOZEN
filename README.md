@@ -102,10 +102,10 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-00979D?logo=Pandas&logoColor=white">
     </a>
     <a>
-    <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-00979D?logo=Matplotlib&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-00979D?logo=matplotlib&logoColor=white">
     </a>
     <a>
-    <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-00979D?logo=Seaborn&logoColor=white">
+    <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-00979D?logo=seaborn&logoColor=white">
     </a>
     <a>
     <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-00979D?logo=SciPy&logoColor=white">
@@ -117,7 +117,7 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="BeautifulSoup" src="https://img.shields.io/badge/-BeautifulSoup-00979D?logo=BeautifulSoup&logoColor=white">
     </a>
     <a>
-    <img alt="DplyR" src="https://img.shields.io/badge/DplyR-00979D?logo=DplyR&logoColor=white">
+    <img alt="DplyR" src="https://img.shields.io/badge/-DplyR-00979D?logo=DplyR&logoColor=white">
     </a>
     <a>
     <img alt="Ggplot2" src="https://img.shields.io/badge/-Ggplot2-00979D?logo=Ggplot2&logoColor=white">
