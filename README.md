@@ -47,7 +47,9 @@ will challenge me to make development and learning new technologies continuous.
 - ⚡ Fun fact: Swimming , Reading , Football and NBA
 
 
-
+</br>
+</br>
+</br>
 
 
 <p align="center">
