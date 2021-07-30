@@ -148,12 +148,15 @@ will challenge me to make development and learning new technologies continuous.
 <p>
     <a>
     <img alt="MsSQL" src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white">
-    <a>
+    </a>
     <a>
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">
     </a>
     <a>
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+    </a>
+    <a>
+    <img alt="BigQuery" src ="https://img.shields.io/badge/BigQuery-CC2927?&logo=bigquery&logoColor=white">
     </a>
     <a>
     <img alt="SQLAlchemy" src ="https://img.shields.io/badge/-SQLAlchemy-0089D6?&logo=sqlalchemy&logoColor=ffffff">
