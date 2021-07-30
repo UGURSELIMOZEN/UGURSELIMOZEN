@@ -169,10 +169,10 @@ will challenge me to make development and learning new technologies continuous.
 
 <p>
     <a>
-    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter">
+    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626.svg?style=flat&logo=Jupyter">
     </a>
     <a>
-    <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=github">
+    <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-276DC3?style=flat&logo=RStudio">
     </a>
     <a>
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
