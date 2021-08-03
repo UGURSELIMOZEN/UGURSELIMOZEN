@@ -39,7 +39,7 @@ will challenge me to make development and learning new technologies continuous.
 
 
 - 🔭 I’m currently working on Data Analytics , Machine Learning domains
-- 🌱 I’m currently learning BigQuery , Python Streamlit , Tableau , Statisitical Analysis and Cloud Technologies.
+- 🌱 I’m currently learning BigQuery , Python Streamlit , Tableau , Statistical Analysis and Cloud Technologies.
 - 💬 Ask me about anything , I will be happy if I can solve your problem but especially Python , SQL , R and domain of Data Analytics technologies.
 - 📫 How to reach me: ugur_ozen58@hotmail.com
 - 😄 Pronouns: Data Analyst
