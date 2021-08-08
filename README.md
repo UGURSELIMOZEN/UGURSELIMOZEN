@@ -171,6 +171,9 @@ will challenge me to make development and learning new technologies continuous.
     <a>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
     </a>
+    <a>
+    <img alt="Heroku" src ="https://img.shields.io/badge/-Heroku-0089D6?&logo=heroku&logoColor=ffffff">
+    </a>
         
 </p>
 
