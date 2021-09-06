@@ -30,7 +30,7 @@ Learning libraries, frameworks. (NumPy, Pandas, Matplotlib, Seaborn, Scikit-lear
 also using the power of complex SQL queries with the RDBMS and APIs (SQL Server, PostgreSQL,
 SQLAlchemy, IBM DB2 and etc.)
 
-• Improving currently myself with BigQuery, Python Streamlit, Tableau and Cloud Technologies to develop
+• Improving currently myself with BigQuery, Python Streamlit  and Cloud Technologies suc Heroku  , Azure and GCP to develop
 interactive web apps.
 
 • I am currently looking  for a new job opportunities about data analytics domain an ambitious company which 
