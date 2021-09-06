@@ -198,9 +198,6 @@ will challenge me to make development and learning new technologies continuous.
     <a>
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
     </a>
-     <a>
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-FCC624?&logo=tableau&logoColor=black">
-    </a>
     <a>
     <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
     </a>
