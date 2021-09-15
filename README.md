@@ -40,7 +40,7 @@ will challenge me to make development and learning new technologies continuous.
 ### To summarize briefly myself ;
 
 
-- 🔭 I’m currently working on Data Analytics , Machine Learning domains
+- 🔭 I’m currently working on Data Analytics and Engineering , Machine Learning domains
 - 🌱 I’m currently learning BigQuery , Python Streamlit , Linux/Shell/Bash Scripting and Cloud Technologies.
 - 💬 Ask me about anything , I will be happy if I can solve your problem but especially Python , SQL , R and domain of Data Analytics technologies.
 - 📫 How to reach me: ugur_ozen58@hotmail.com
