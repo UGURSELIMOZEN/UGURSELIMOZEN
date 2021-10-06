@@ -248,9 +248,7 @@ will challenge me to make development and learning new technologies continuous.
 </p>
 
 </br>
-</br>
-</br>
-</br>
+
 
 <p align="center">
 <a>
