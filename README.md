@@ -238,9 +238,9 @@ will challenge me to make development and learning new technologies continuous.
     <a>
     <img alt="GitHub Summary" src="https://metrics.lecoq.io/UGURSELIMOZEN" width="440px"/>
     </a>
-    <a>
-    <img  alt="Ugur Selim Ozen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api? username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="400px" />
-    </a>
+<a>
+<img  alt="Ugur Selim Ozen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?      username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="400px" />
+</a>
     
 </p>  
 
