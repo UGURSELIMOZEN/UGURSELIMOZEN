@@ -250,7 +250,7 @@ will challenge me to make development and learning new technologies continuous.
 <img 
   alt="GitHub Metrics" 
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true" 
-  width="660px" />
+  width="660px" height ="200px" />
 </a>
 </br>
 </br>
