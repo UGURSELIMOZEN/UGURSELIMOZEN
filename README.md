@@ -259,8 +259,3 @@ will challenge me to make development and learning new technologies continuous.
 </a>
 </br>
 </br>
-
-
-</br>
-</br>
-</br>
