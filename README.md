@@ -232,20 +232,23 @@ will challenge me to make development and learning new technologies continuous.
 <h2> My Github Stats    
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' />
 </h2>
+</p>
 
-<p >
+<p>
+    
 <a>
 <img align="right" alt="GitHub Summary" src="https://metrics.lecoq.io/UGURSELIMOZEN" width="440px"/>
+</a>
     
+<a>
 <img align="left" alt="Ugur Selim Ozen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="400px" />
 </a>
+    
 </p>  
 
 </br>
 
-<p> 
 
-</p>
 
 <p>&nbsp;
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true" width="49%"  />
