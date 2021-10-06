@@ -264,7 +264,7 @@ will challenge me to make development and learning new technologies continuous.
 </br>
 </br>
 <p align="center">
-<a>
+<a>    
 <img 
   alt="My's Streak" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=UGURSELIMOZEN&theme=monokai-metallian&hide_border=true" 
