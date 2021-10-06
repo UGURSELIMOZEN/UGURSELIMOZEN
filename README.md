@@ -235,17 +235,17 @@ will challenge me to make development and learning new technologies continuous.
 
 <p align="center">
 <a>
-<img alt="GitHub Summary" src="https://metrics.lecoq.io/UGURSELIMOZEN" width="660px"/>
+<img alt="GitHub Summary" src="https://metrics.lecoq.io/UGURSELIMOZEN" width="440px"/>
 </a>
 </br>
 </br>
 <p align="left">
 <a>
 <img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="440px"/>
-</a>
+
 
 <p align="right">
-<a>
+
 <img 
   alt="Most Used Languages" 
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true" 
