@@ -242,7 +242,7 @@ will challenge me to make development and learning new technologies continuous.
 </br>
 
 <p> 
-<img align="left" alt="Ugur Selim Ozen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="350px"/>
+<img align="left" alt="Ugur Selim Ozen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="350px" height="350px"/>
    
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true"  width="350px" />
 </p>
