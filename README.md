@@ -244,15 +244,15 @@ will challenge me to make development and learning new technologies continuous.
 <p> 
 <img align="left" alt="Ugur Selim Ozen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="350px" height="350px"/>
    
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true"  width="350px" />
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true"  width="300px" />
 </p>
 
 
 <p align="center">
-<a>
+
 <img 
   alt="My up-to-date Activity Graph" 
   src="https://activity-graph.herokuapp.com/graph?username=UGURSELIMOZEN&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
   width="550px" height = "400px" />
-</a>
+</p>
 
