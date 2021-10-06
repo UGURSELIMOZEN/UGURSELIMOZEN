@@ -250,9 +250,9 @@ will challenge me to make development and learning new technologies continuous.
 </p>
 
 
-<p align="left">
+<p>
 <a>
-<img 
+<img align="left" 
   alt="My up-to-date Activity Graph" 
   src="https://activity-graph.herokuapp.com/graph?username=UGURSELIMOZEN&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
      width="300px" height = "300px" />
