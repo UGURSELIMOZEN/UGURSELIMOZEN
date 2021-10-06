@@ -60,7 +60,7 @@ will challenge me to make development and learning new technologies continuous.
 
 ---
 
-</br>
+
 
 ### 👨‍💻 Programming Languages
 
@@ -95,7 +95,7 @@ will challenge me to make development and learning new technologies continuous.
     
 </p>
     
-</br>
+
 
 
 ### 🧰 Frameworks & Libraries
@@ -143,7 +143,7 @@ will challenge me to make development and learning new technologies continuous.
     
 </p>
 
-</br>
+
 
 ### 🗄️ Databases & Cloud Technologies
 
@@ -180,7 +180,7 @@ will challenge me to make development and learning new technologies continuous.
         
 </p>
 
-</br>
+
 
 ### 💻 Software & Tools
 
@@ -221,7 +221,7 @@ will challenge me to make development and learning new technologies continuous.
 
 
 
-</br>
+
 </br>
 
 <p align="center">
