@@ -243,9 +243,11 @@ will challenge me to make development and learning new technologies continuous.
 <p align="left">
 <a>
 <img alt="Uugr Selim Ozen's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UGURSELIMOZEN&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="440px"/>
+</a>
 </p>
 
 <p align="right">
+<a>
 <img 
   alt="Most Used Languages" 
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true" 
