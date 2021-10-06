@@ -249,10 +249,11 @@ will challenge me to make development and learning new technologies continuous.
 
 
 <p align="center">
-
+<a>
 <img 
   alt="My up-to-date Activity Graph" 
   src="https://activity-graph.herokuapp.com/graph?username=UGURSELIMOZEN&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
-  width="550px" height = "400px" />
+     width="550px" height = "400px" />
+</a>
 </p>
 
