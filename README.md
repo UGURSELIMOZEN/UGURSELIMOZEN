@@ -247,8 +247,6 @@ will challenge me to make development and learning new technologies continuous.
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true"  width="350px" />
 </p>
 
-</br>
-
 
 <p align="center">
 <a>
@@ -257,5 +255,4 @@ will challenge me to make development and learning new technologies continuous.
   src="https://activity-graph.herokuapp.com/graph?username=UGURSELIMOZEN&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
   width="550px" height = "400px" />
 </a>
-</br>
-</br>
+
