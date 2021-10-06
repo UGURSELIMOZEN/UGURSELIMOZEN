@@ -36,7 +36,7 @@ interactive web apps.
 • I am currently looking  for a new job opportunities about data analytics and engineering domain an ambitious company which 
 will challenge me to make development and learning new technologies continuous. 
 
-</br>
+
 
 ### To summarize briefly myself ;
 
@@ -51,7 +51,7 @@ will challenge me to make development and learning new technologies continuous.
 
 
 
-</br>
+
 </br>
 <h2>🛠️ SKILLS &  MY FAVORITE TOOLS
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
@@ -222,7 +222,7 @@ will challenge me to make development and learning new technologies continuous.
 
 
 
-</br>
+
 
 <p align="center">
 <h2> My Github Stats    
