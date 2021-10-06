@@ -49,7 +49,7 @@ will challenge me to make development and learning new technologies continuous.
 - ⚡ Fun fact: Swimming , Reading , Football and NBA
 
 
-
+</br>
 
 
 </br>
@@ -221,7 +221,7 @@ will challenge me to make development and learning new technologies continuous.
 
 
 
-
+</br>
 
 
 <p align="center">
