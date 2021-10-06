@@ -246,11 +246,11 @@ will challenge me to make development and learning new technologies continuous.
 </p>
 
 <p> 
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true" width="300px" height = "200px" />
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UGURSELIMOZEN&langs_count=20&theme=monokai&layout=compact&count_private=true" width="400px" height = "400px" />
 </p>
 
 
-<p align="center">
+<p align="left">
 <a>
 <img 
   alt="My up-to-date Activity Graph" 
