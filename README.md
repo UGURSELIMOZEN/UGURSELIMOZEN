@@ -234,7 +234,7 @@ will challenge me to make development and learning new technologies continuous.
 </h2>
 </p>
 
-<p>
+<p align = "center">
     <a>
     <img alt="GitHub Summary" src="https://metrics.lecoq.io/UGURSELIMOZEN" width="440px"/>
     </a>
