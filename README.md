@@ -78,6 +78,9 @@ will challenge me to make development and learning new technologies continuous.
     <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">
     </a>
     <a>
+    <img alt="Scala" src="https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Java&logoColor=FFA518">
+    </a>
+    <a>
     <img alt="Lisp" src="https://img.shields.io/badge/Lisp%20-%23E34F26.svg?logo=Lisp&logoColor=white">
     </a>
     <a>
