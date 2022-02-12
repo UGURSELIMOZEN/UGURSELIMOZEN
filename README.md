@@ -4,7 +4,7 @@
 <br>
 
 <h1>
-<p align="center">Hi there, I'm Uğur Selim 
+<p align="center">Hi there, I'm Ugur Selim
 <a href="https://rahulmahesh.me/">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
