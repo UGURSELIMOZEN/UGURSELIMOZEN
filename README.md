@@ -17,20 +17,18 @@
 ## About Me
 
 
-• In my life journey, the concept of learning has evolved into self-learning which should be continuous
-duty.Through my studies and projects , I am self-motivated and result-oriented team player who believes
-that the success is the sum of the right and wrong made by the whole team.Every time , I am looking for
-new challenges and desiring to learn new technologies. I am curious about data analytics and engineering 
-,machine learning domains.
+• In my life journey, the concept of learning has evolved into self-learning which should be a continuous
+duty. Through my studies and projects, I am a self-motivated and result-oriented team player who believes
+that success is the sum of the right and wrong made by the whole team. Every time, I am looking for
+new challenges and desire to learn new technologies. I am curious about data analytics and machine learning domains.
 
-• Working with in getting and preparing data with web scraping, data preprocessing, time series analysis,
-A/B testing with bootstrap analysis, predictive modeling (regression, classification and cluster analysis) and Machine
-Learning libraries, frameworks. (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, BeautifulSoup and etc.)
+• Working within getting and preparing data with web scraping, data preprocessing, time series analysis,
+A/B testing with bootstrap analysis, predictive modeling (regression, cluster analysis), and Machine
+Learning libraries, frameworks. (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, BeautifulSoup, etc.)
 also using the power of complex SQL queries with the RDBMS and APIs (SQL Server, PostgreSQL,
-SQLAlchemy, IBM DB2 and etc.)
+SQLAlchemy, IBM DB2, etc.)
 
-• Improving currently myself with BigQuery, Python Streamlit  and Cloud Technologies such Heroku  , Azure and GCP to develop
-interactive web apps.
+• Improving currently myself with BigQuery, Python Streamlit, and Cloud Technologies such as Heroku, AWS, and GCP to develop and deploy interactive web apps.
 
 • I am currently looking  for a new job opportunities about data analytics and engineering domain an ambitious company which 
 will challenge me to make development and learning new technologies continuous. 
